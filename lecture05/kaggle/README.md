@@ -1,1 +1,1 @@
-https://www.kaggle.com/competitions/introml2022-6
+https://www.kaggle.com/competitions/introml-2023-1-porn-detection
