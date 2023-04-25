@@ -10,3 +10,4 @@
 * [Работа с текстовыми данными I](https://github.com/vadim0912/ML2023/tree/master/lecture05)
 * [Обучение без учителя](https://github.com/vadim0912/ML2023/tree/master/lecture06)
 * [Ансамбли моделей](https://github.com/vadim0912/ML2023/tree/master/lecture07)
+* [Работа с текстовыми данными II](https://github.com/vadim0912/ML2023/tree/master/lecture08)
