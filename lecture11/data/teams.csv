@@ -1,0 +1,34 @@
+team,id,alliance,joins,gh
+Drogo,0,Opportunists, follows Drogo,0
+Littlefinger,1,Opportunists, follows Littlefinger,0
+Martell,2,Opportunists, joins the Martells,0
+Red God,3,Opportunists, worships the Red God,0
+Renly,4,Opportunists, follows Renly,0
+Second Sons,5,Opportunists, joins the Second Sons,0
+Stannis,6,Opportunists, follows Stannis,0
+Stormcrows,7,Opportunists, joins the Stormcrows,0
+Targaryen,8,Opportunists, joins the Targaryens,0
+Tyrell,9,Opportunists, joins the Tyrells,0
+Windblown,10,Opportunists, joins the Windblown,0
+Bolton (Lannister),11,Lannisters, joins the Bolton (allied of Lannistesr),1
+Frey (Lannister),12,Lannisters, joins the Freys (allied of Lannisters),1
+Lannister,13,Lannisters, joins the Lannisters,1
+Brave Companions,14,Lannisters, joins the Brave Companions,1
+Essos,15,Antagonists, joins the forces of Essos,2
+Greyjoy,16,Antagonists, joins the Greyjoys.,2
+Mountain clans,17,Antagonists, joins the Mountain clans.,2
+the Others,18,Antagonists, becomes a wight.,2
+Wildlings (north of wall),19,Antagonists, joins the Wildlings (north of wall).,2
+Bolton (North),20,Starks, joins the Boltons (allied of Starks),3
+Brienne,21,Starks,follows Brienne,3
+Brotherhood without Banners,22,Starks, joins the Brotherhood without Banners,3
+Frey (North),23,Starks, joins the Freys (allied of Starks),3
+Stark,24,Starks, joins the Starks,3
+Night Watch,25,Neutral, joins the Night Watch,4
+none,26,Neutral, is no longer part of a team.,4
+Robert,27,Neutral, follows Robert.,4
+Tyrion,28,Neutral, follows Tyrion.,4
+Wildling refugees,29,Neutral, joins the Wildling refugees,4
+Citadel,30,Neutral, enters the Citadel.,4
+Faceless Men,31,Neutral, joins the Faceless Men.,4
+Faith,32,Neutral, joins the Faith.,4
