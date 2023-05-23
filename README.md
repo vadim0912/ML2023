@@ -11,3 +11,7 @@
 * [Обучение без учителя](https://github.com/vadim0912/ML2023/tree/master/lecture06)
 * [Ансамбли моделей](https://github.com/vadim0912/ML2023/tree/master/lecture07)
 * [Работа с текстовыми данными II](https://github.com/vadim0912/ML2023/tree/master/lecture08)
+* [Рекомендательные системы](https://github.com/vadim0912/ML2023/tree/master/lecture09)
+* Работа с гео-данными
+* [Анализ графов](https://github.com/vadim0912/ML2023/tree/master/lecture11)
+* [Анализ сигналов](https://github.com/vadim0912/ML2023/tree/master/lecture12)
